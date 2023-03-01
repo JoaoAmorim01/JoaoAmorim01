@@ -21,4 +21,5 @@
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-amorim-1870a5196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GFrJzkBTctRfvDgbnGcwhCwMhTmwWpVlBZXnsQPpZSWfsSXFvWGZXNVtJGLKpDRkjjWR" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="https://discord.com/channels/@me/928426854929543178" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
