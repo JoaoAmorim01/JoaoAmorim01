@@ -1,7 +1,7 @@
 ## Oii! Bão? Eu sou o João Amorim 👋
 
 - 🌱 Dev Full Stack em formação pelo <a href="https://programadoresdoamanha.org/" target="_blank"> Programadores do Amanhã </a> 
-- 👯 Procurando colaborar como Front-End
+- 👯 Procurando colaborar como Full Stack
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Dev mineiro | produtivo com música, pão de queijo e café
 
