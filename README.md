@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou João Amorim, Desenvolvedor Full-Stack (Next.js & Node.js).
 
-- 🌱 Dev Full Stack em formação pelo <a href="https://programadoresdoamanha.org/" target="_blank"> Programadores do Amanhã </a> 
+- 🌱 Dev Full Stack formado pelo <a href="https://programadoresdoamanha.org/" target="_blank"> Programadores do Amanhã </a> 
 - 👯 Procurando colaborar como Full Stack
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Dev mineiro | produtivo com música, pão de queijo e café
